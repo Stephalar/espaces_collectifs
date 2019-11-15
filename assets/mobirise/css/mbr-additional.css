@@ -601,8 +601,7 @@ blockquote {
 .lazy-bg {
   background-image: none !important;
 }
-.lazy-placeholder:not(section),
-.lazy-none {
+.lazy-placeholder:not(section) {
   display: block;
   position: relative;
   padding-bottom: 56.25%;
@@ -5594,6 +5593,75 @@ section.lazy-placeholder:after {
 }
 .cid-rETbfNo3om .user_desk {
   color: #ffffff;
+}
+.cid-rHSx3ve4vc {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/blaq-fond-1920x1187.jpg");
+}
+.cid-rHSx3ve4vc p {
+  color: #767676;
+}
+.cid-rHSx3ve4vc .mbr-section-subtitle {
+  color: #465052;
+}
+.cid-rHSx3ve4vc .accordion-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-rHSx3ve4vc .panel-group {
+  width: 100%;
+}
+.cid-rHSx3ve4vc .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-rHSx3ve4vc .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rHSx3ve4vc .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-rHSx3ve4vc .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rHSx3ve4vc .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-rHSx3ve4vc .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rHSx3ve4vc .mbr-figure {
+  -webkit-align-self: flex-start;
+  align-self: flex-start;
+  padding-left: 4rem;
+}
+@media (max-width: 991px) {
+  .cid-rHSx3ve4vc .mbr-figure {
+    padding-right: 0;
+    padding-left: 0;
+    padding-top: 2rem;
+  }
+}
+.cid-rHSx3ve4vc H4 {
+  color: #465052;
+}
+.cid-rHSx3ve4vc H2 {
+  color: #465052;
+}
+.cid-rHSx3ve4vc .panel-text {
+  color: #465052;
+  text-align: left;
 }
 .cid-rFCgEZrMYE {
   padding-top: 30px;
